@@ -117,7 +117,7 @@
 
 /**
  *  The selection color to be overlayed on a bar during touch events. 
- *  The color is automically faded to transparent (vertically). The property showsVerticalSelection
+ *  The color is automatically faded to transparent (vertically). The property showsVerticalSelection
  *  must be YES for the color to apply.
  *
  *  Default: white color (faded to transparent).
